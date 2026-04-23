@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 80" role="img" aria-label="Whoz">
+  <rect width="180" height="80" rx="18" fill="#102A56"/>
+  <circle cx="42" cy="40" r="18" fill="#33C5FF"/>
+  <text x="112" y="48" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="900" fill="#fff">Whoz</text>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 80" role="img" aria-label="Microsoft Teams">
+  <rect width="180" height="80" rx="18" fill="#6264A7"/>
+  <rect x="22" y="22" width="42" height="36" rx="8" fill="#fff" opacity=".18"/>
+  <text x="43" y="49" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="27" font-weight="900" fill="#fff">T</text>
+  <text x="120" y="36" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="900" fill="#fff">Microsoft</text>
+  <text x="120" y="56" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="900" fill="#fff">Teams</text>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 80" role="img" aria-label="LinkedIn Recruiter">
+  <rect width="180" height="80" rx="18" fill="#0A66C2"/>
+  <rect x="22" y="18" width="36" height="36" rx="7" fill="#fff"/>
+  <text x="40" y="45" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="900" fill="#0A66C2">in</text>
+  <text x="112" y="36" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="900" fill="#fff">LinkedIn</text>
+  <text x="112" y="56" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="800" fill="#DCEBFF">Recruiter</text>
+</svg>

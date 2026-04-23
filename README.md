@@ -1,4 +1,3 @@
-# corentin-s-portfolio[README.md](https://github.com/user-attachments/files/26985812/README.md)
 # Portfolio professionnel
 
 Portfolio statique en francais, pense pour presenter le parcours professionnel de Corentin Webber avec une structure orientee recrutement.
